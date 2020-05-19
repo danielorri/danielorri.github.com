@@ -1,0 +1,78 @@
+
+
+.b-color{
+color:  #44770A;
+}
+.c-content{
+ position: relative;
+ top: 45%;
+ transform: translateY(-50%);
+}
+
+li{
+  list-style: none;
+}
+
+footer{
+  display: flex;
+  height: 3rem;
+
+  margin-bottom: -5rem;
+}
+
+.p-center{
+  margin:auto;
+  margin-top: .7rem;
+}
+
+.jumbotron{
+  color: white;
+  font-weight: 500;
+  background-image: url(https://www.groundsguys.com/cms/thumbnails/34/1920x780/images/mainstages/hero-a-bg.jpg);
+  background-size: cover;
+}
+.shad-content{
+box-shadow: 64px 39px 59px -12px rgba(189,182,189,1);
+}
+
+.li-color li a{
+  color: #000;
+}
+
+.content-center{
+  margin: auto;
+  width:80%;
+
+  position: relative;
+  top: 45%;
+  transform: translateY(-50%);
+}
+.design{
+  border-radius: 15px 20px;
+padding: 1.5rem;
+color: #fff;
+background-image:url(https://st.hzcdn.com/simgs/6991396c044a47e6_9-4220/home-design.jpg);
+background-size: cover;
+}
+
+.maintenance{
+  border-radius: 15px 20px;
+padding: 1.5rem;
+color: #fff;
+ background-image:linear-gradient(#000, transparent),
+ url(https://www.fleckslandscaping.com/index_htm_files/73.jpg);
+background-size: cover;
+}
+
+.snow{
+  border-radius: 15px 20px;
+padding: 1.3rem;
+color: #000;
+background-image:linear-gradient(to top,#fff, transparent),
+url(https://www.fleckslandscaping.com/index_htm_files/89.jpg);
+background-size: cover;
+}
+.nav-link:hover{
+  background-color: #fff;
+  color: #000;
+}
